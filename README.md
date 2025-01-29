@@ -1,4 +1,4 @@
-# k6-to-junit
+ # k6-to-junit
 
 ![https://www.npmjs.com/package/k6-to-junit](https://img.shields.io/npm/v/k6-to-junit?style=plastic) ![https://github.com/Mattihew/k6-to-junit](https://img.shields.io/github/v/release/mattihew/k6-to-junit?label=github&style=plastic)
 
