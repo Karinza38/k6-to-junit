@@ -24,7 +24,7 @@
   "author": "Matt Rayner",
   "license": "MIT",
   "dependencies": {
-    "tslib": "^1.10.0",
+    "tslib": "^1.14.1",
     "xmlbuilder": "^13.0.2",
     "yargs": "^14.2.0"
   },
